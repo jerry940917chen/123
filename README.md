@@ -1,4 +1,4 @@
-# 123
+# git learning
 ## 事前作業
 1. 去github開一個repo
 2. 點clone然後複製紐
